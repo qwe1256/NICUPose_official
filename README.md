@@ -131,7 +131,7 @@ We provide the model fine-tuned on our WashU-NICU newborn pose dataset. Doing th
 The training command is as follows:
 
 ```
-bash tools/dist_train.sh configs/models/swin-l-p4-w7-224-22kto1k_16x1_100e_coco.py 4 --resume-from nicupose.pth 
+bash tools/dist_train.sh configs/models/swin-l-p4-w7-224-22kto1k_16x1_100e_coco.py 1 --resume-from nicupose.pth 
 ```
 
 ## Evalution
