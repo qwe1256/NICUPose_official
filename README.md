@@ -41,7 +41,7 @@ Once the dataset is prepared, please change the `data_root` variable in the `con
 
 We use [labelme](https://github.com/wkentaro/labelme) to annotate the keypoints of the infant. You could use your prefered annotation tool to annotate the keypoints of the infant. The annotation file must be in the format of [COCO](https://cocodataset.org/#format-data) Keypoints dataset.
 
-You need to create a json (dictionary-like) file for the annotation. In the annotation file, you need to have three keys: 'image', 'annotation', 'categories'. You can refer to [explore_annotation.ipynb](explore_annotation.ipynb) to see the structure of annotation file. Particularly, the structure shoudld look like:
+You need to create a json (dictionary-like) file for the annotation. In the annotation file, you need to have three keys: 'image', 'annotation', 'categories'. You can refer to [explore_annotation.ipynb](explore_annotation.ipynb) to see the structure of annotation file. Particularly, the structure should look like:
 
 ```
 image{
