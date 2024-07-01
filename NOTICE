@@ -1,0 +1,13 @@
+This product includes software developed at Hikvision Research Institute (https://github.com/hikvision-research/opera).
+
+Modifications:
+Dataset loader
+Model Configuration
+Model/Head 
+Model/Detector 
+Train
+Image demo
+
+Additional modifications and contributions by:
+Di Huang (di.huang@wustl.edu)
+2024

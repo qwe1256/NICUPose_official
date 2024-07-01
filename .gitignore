@@ -1,0 +1,10 @@
+*.pyc
+wrk_dirs/*
+*.egg-info
+*.pth
+.vscode/*
+*.json
+*.pth
+*.git
+inference/*
+.gitignoreo
